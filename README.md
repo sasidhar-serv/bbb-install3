@@ -1,7 +1,7 @@
 # bbb-install-master
  
 
-# bbb-install on EC2 AWS
+# bbb-install on EC2 AWS 
 
 Before start the installation first [Minimum server requirements](https://docs.bigbluebutton.org/2.2/install.html#minimum-server-requirements).
 
