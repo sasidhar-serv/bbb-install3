@@ -13,7 +13,7 @@
 #
 # You should have received a copy of the GNU Lesser General Public License along
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
-
+ 
 # BigBlueButton is an open source conferencing system.  For more information see
 #    http://www.bigbluebutton.org/.
 #
